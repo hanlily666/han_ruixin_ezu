@@ -18,6 +18,7 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="blog" />
     <orderEntry type="module" module-name="pythonProject" />
+    <orderEntry type="module" module-name="trainor_kevin_ezu" />
   </component>
   <component name="PyDocumentationSettings">
     <option name="format" value="PLAIN" />
